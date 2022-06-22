@@ -77,7 +77,6 @@ if (isset($_POST['submit']) && !empty($_FILES['file']['name'])) {
 </div>
 <script src="jquery.min.js"></script>
 <script type="text/javascript">
-
     function filePreview(input) {
         if (input.files && input.files[0]) {
         
@@ -93,7 +92,6 @@ if (isset($_POST['submit']) && !empty($_FILES['file']['name'])) {
     $("#file").change(function () {
         filePreview(this);
     });
-
     </script>
 </body>
 </html>
