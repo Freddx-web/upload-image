@@ -1,3 +1,3 @@
 # upload-image
 
-upload images with php and javascript
+Upload images with PHP and javascript from browser
