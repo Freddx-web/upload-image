@@ -1,3 +1,3 @@
 # upload-image
 
-PHP - Javascript
+upload images with php and javascript
